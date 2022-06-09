@@ -1,5 +1,5 @@
 :root {
-    --pink: #ff4081;
+    --pink: #bc1515;
   }
   
   body {
@@ -98,8 +98,11 @@ p{color: white;}
       text-decoration: none;
       cursor: pointer;
     }
-    .bam p {width: 80%;}
+    .bam p {width: 70%;
+    padding: 3%;
+  font-size: 40px,}
     .bam img {width: 20%;}
     html {
       scroll-behavior: smooth;
     }
+    .bam{display: flex;}
