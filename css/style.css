@@ -100,3 +100,6 @@ p{color: white;}
     }
     .bam p {width: 80%;}
     .bam img {width: 20%;}
+    html {
+      scroll-behavior: smooth;
+    }
